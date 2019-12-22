@@ -446,3 +446,20 @@ Changes to be committed:
   130  history >> 1.txt 
   131  date
   132  history >> 1.txt 
+commit ba66a42d9f498e019bf13e6dd85e3409bc93a7ba
+Author: Ubuntu <ubuntu@ip-172-31-18-148.ec2.internal>
+Date:   Sun Dec 22 06:52:28 2019 +0000
+
+    revert command
+
+commit 6f76302db473efb93a252846f3d10f45fce09be6
+Author: Ubuntu <ubuntu@ip-172-31-18-148.ec2.internal>
+Date:   Sun Dec 22 06:24:51 2019 +0000
+
+    folder added
+
+commit 6b931d0b5ecda9167484ce7f3ae4306fa5f69ba0
+Author: Ubuntu <ubuntu@ip-172-31-18-148.ec2.internal>
+Date:   Sun Dec 22 06:19:38 2019 +0000
+
+    Intial Creation
