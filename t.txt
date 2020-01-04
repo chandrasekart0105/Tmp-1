@@ -1,0 +1,199 @@
+    1  ls -lrt
+    2  pwd
+    3  whichsh
+    4  hostname
+    5  exit
+    6  ls -lrt
+    7  cd thinclient_drives/
+    8  ls -lrt
+    9  cd ..
+   10  cd D
+   11  cd Downloads/
+   12  ls -lrt
+   13  cd ..
+   14  cd Documents/
+   15  ls -lrt
+   16  cd
+   17  pwd
+   18  cd /bin
+   19  ls -lrt
+   20  cd /
+   21  ls -lrt
+   22  cd /var/
+   23  cd ttmp
+   24  lcd tmp
+   25  cd tmp
+   26  ls -lrt
+   27  cd /tmp
+   28  ls- lrt
+   29  ls -lrt
+   30  clear
+   31  ls- lrt
+   32  clear
+   33  ls -lrt
+   34  date
+   35  cd
+   36  ls -lrt
+   37  ls -lart
+   38  cd .ssh
+   39  ls -lrt
+   40  cat authorized_keys 
+   41  cdl
+   42  ls -lrt
+   43  cd
+   44  ls -lrt
+   45  mkdir Chandra
+   46  ls -lrt
+   47  cd /appl
+   48  ls -lrt
+   49  cd /
+   50  ls
+   51  cd sys
+   52  ls -lrt
+   53  cd /
+   54  ls
+   55  cd bin/
+   56  ls
+   57  cd
+   58  pwd
+   59  ls -lrt
+   60  cd chandra
+   61  pwd
+   62  cd Chandra
+   63  get
+   64  git
+   65  clear
+   66  git
+   67  git --version
+   68  mkdir gitrepo
+   69  ls -lrt
+   70  cd gitrepo/
+   71  ls -lrt
+   72  git init
+   73  ls -lrt
+   74  ls -lart
+   75  git status
+   76  vi 1.txt
+   77  ls -lrt
+   78  cat 1.txt 
+   79  hist
+   80  history
+   81  history >> 1.txt 
+   82  cat 1.txt 
+   83  ls -lrt
+   84  git status
+   85  history >> 1.txt 
+   86  ls -lrt
+   87  git status >> 1.txt
+   88  git add .
+   89  git status
+   90  git status >> 1.txt
+   91  ls -lrt
+   92  git status
+   93  git add .
+   94  git commit -m "Intial Creation"
+   95  git status
+   96  ls -lrt
+   97  mkdir fol-1
+   98  cd f-
+   99  cd fol-1/
+  100  histort >> 1.txt
+  101  history >> 2.txt
+  102  cd ..
+  103  ls -lrt
+  104  git status
+  105  git add .
+  106  git commit -m "folder added"
+  107  git status
+  108  git log
+  109  git show 6f76302db473efb93a252846f3d10f45fce09be6
+  110  histort >> 1.txt 
+  111  history >> 1.txt 
+  112  ls -lrt
+  113  git reset --hard
+  114  ls -lrt
+  115  cat 1.txt 
+  116  git status
+  117  git log
+  118  history >> 1.txt 
+  119  git add -m "checking hard command"
+  120  git add .
+  121  git commit -m "checking hard command"
+  122  git log
+  123  clear
+  124  git log
+  125  git reset --hard 6f76302db473efb93a252846f3d10f45fce09be6
+  126  git log
+  127  clear
+  128  git log
+  129  histroy >> 1.txt 
+  130  history >> 1.txt 
+  131  date
+  132  history >> 1.txt 
+  133  git add
+  134  git add .
+  135  git commit -m "revert command"
+  136  git log
+  137  git log >> 1.txt
+  138  git add .
+  139  git commit -m "check1"
+  140  git log
+  141  git revert 6f76302db473efb93a252846f3d10f45fce09be6
+  142  cd Chandra/
+  143  ls -lrt
+  144  cd gitrepo/
+  145  git log
+  146  ls -lrt
+  147  cd Chandra/
+  148  ls 0lrt
+  149  ls -lrt
+  150  clear
+  151  ls -lrt
+  152  cd *
+  153  ls -lrt
+  154  cd ..
+  155  ls -lrt
+  156  github status
+  157  git status
+  158  ls -lart
+  159  cd gitrepo/
+  160  ls -lart
+  161  git status
+  162  exit
+  163  cd Chandra/
+  164  ls -lrt
+  165  cd g*
+  166  ls- lrt
+  167  clear
+  168  ls- lrt
+  169  clear
+  170  ls -lrt
+  171  git status
+  172  git brach -l
+  173  git branch -l
+  174  clear
+  175  git branch -l
+  176  git branch develop
+  177  ls -lrt
+  178  git status
+  179  git branch -;
+  180  git branch -l
+  181  clear
+  182  git branch -l
+  183  git branch uatnew
+  184  branch -l
+  185  clear
+  186  git branch -l
+  187  git checkout develop
+  188  git branch -l
+  189  git checkout uatnew
+  190  git branch -l
+  191  git checkout develop
+  192  git branch -l
+  193  ls- lrt
+  194  c,ear
+  195  ls -lrt
+  196  clear
+  197  ls -lrt
+  198  vi 1.txt 
+  199  history >> t.txt
