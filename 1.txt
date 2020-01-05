@@ -1,0 +1,47 @@
+    1  ls- lrt
+    2  clear
+    3  ls -lrt
+    4  exit
+    5  sudo -i
+    6  ls -lrt
+    7  mkdir Chandra
+    8  cd Chandra/
+    9  ls- lrt
+   10  clear
+   11  ls -lrt
+   12  git status
+   13  apt install git
+   14  sudo su -
+   15  ls -lrt
+   16  git init
+   17  ls -lart
+   18  cd .git/
+   19  ls -lart
+   20  cd ..
+   21  ls -lart
+   22  git start
+   23  git status
+   24  git branch -l
+   25  git show
+   26  ls -lrt
+   27  curl wgetip.com
+   28  exit
+   29  ls -lrt
+   30  sudo su -
+   31  sudo su 0
+   32  apt install git
+   33  sudo su -
+   34  cd
+   35  cd chandra
+   36  cd ch
+   37  ls -lrt
+   38  cd Chandra/
+   39  ls -lrt
+   40  mkdir gitrepo
+   41  cd gitrepo/
+   42  ls -lrt
+   43  git init
+   44  git status
+   45  histort >> 1.txt
+   46  history
+   47  history > 1.txt
